@@ -1,0 +1,150 @@
+IDZaposlenika,Godine,Napustio/la,PoslovnaPutovanja,Odjel,UdaljenostOdDoma,NivoObrazovanja,Obrazovanje,Spol,Uloga,BracniStatus,MjesecnaPlata,StandardniSati,RadniStaz,BrojObuka,GodineUFirmi,VrijemeOdZadnjegUnaprijedenja,VrijemeSaTrenutnimMenadzerom,OcjenaOkoline,OcjenaPosla,OcjenaPreformanse
+1,51,Ne,Rijetko,Prodaja,6,2,Prirodne nauke,Zensko,Predstavnik zdravstva,Brak,131160,8,1,6,1,0,0,3,4,3
+2,31,Da,Cesto,Istrazivanje i razvoj,10,1,Prirodne nauke,Zensko,Naucni istrazivac,Sam/a,41890,8,6,3,5,1,4,3,2,4
+3,32,Ne,Cesto,Istrazivanje i razvoj,17,4,Ostalo,Musko,Direktor prodaje,Brak,193280,8,5,2,5,0,3,2,2,3
+4,38,Ne,Ne putuje,Istrazivanje i razvoj,2,5,Prirodne nauke,Musko,Ljudski resursi,Brak,83210,8,13,5,8,7,5,4,4,3
+5,32,Ne,Rijetko,Istrazivanje i razvoj,10,1,Medicina,Musko,Direktor prodaje,Sam/a,23420,8,9,2,6,0,4,4,1,3
+6,46,Ne,Rijetko,Istrazivanje i razvoj,8,3,Prirodne nauke,Zensko,Direktor istrazivanja,Brak,40710,8,28,5,7,7,7,3,2,3
+7,28,Da,Rijetko,Istrazivanje i razvoj,11,2,Medicina,Musko,Direktor prodaje,Sam/a,58130,8,5,2,0,0,0,1,3,4
+8,29,Ne,Rijetko,Istrazivanje i razvoj,18,3,Prirodne nauke,Musko,Direktor prodaje,Brak,31430,8,10,2,0,0,0,1,2,4
+9,31,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Musko,Laboratorijski tehnicar,Brak,20440,8,10,2,9,7,8,2,4,4
+10,25,Ne,Ne putuje,Istrazivanje i razvoj,7,4,Medicina,Zensko,Laboratorijski tehnicar,Razveden/a,134640,8,6,2,6,1,5,2,1,3
+11,45,Ne,Rijetko,Istrazivanje i razvoj,17,2,Medicina,Musko,Laboratorijski tehnicar,Brak,79910,8,21,2,20,4,10,3,4,3
+12,36,Ne,Rijetko,Istrazivanje i razvoj,28,1,Prirodne nauke,Musko,Laboratorijski tehnicar,Brak,33770,8,16,2,15,10,11,NA,4,3
+13,55,Ne,Rijetko,Istrazivanje i razvoj,14,4,Prirodne nauke,Zensko,Direktor prodaje,Sam/a,55380,8,37,2,36,4,13,4,1,3
+14,47,Da,Ne putuje,Istrazivanje i razvoj,1,1,Medicina,Musko,Naucni istrazivac,Brak,57620,8,10,4,10,9,9,1,2,3
+15,28,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Musko,Direktor prozivodnje,Brak,25920,8,5,2,5,0,4,4,4,3
+16,37,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Musko,Predstavnik zdravstva,Brak,53460,8,7,2,5,0,1,3,4,3
+17,21,Ne,Rijetko,Istrazivanje i razvoj,3,2,Prirodne nauke,Musko,Laboratorijski tehnicar,Sam/a,42130,8,3,3,3,1,0,4,3,3
+18,37,Ne,Ne putuje,Istrazivanje i razvoj,1,3,Medicina,Musko,Direktor prodaje,Razveden/a,41270,8,15,2,5,0,2,1,4,3
+19,35,Ne,Rijetko,Prodaja,7,4,Prirodne nauke,Musko,Prodaja Representative,Razveden/a,24380,8,10,5,7,6,2,2,2,3
+20,38,Ne,Rijetko,Istrazivanje i razvoj,8,3,Prirodne nauke,Zensko,Menadzer,Razveden/a,68700,8,8,5,8,7,7,1,1,3
+21,26,Ne,Cesto,Istrazivanje i razvoj,1,4,Ostalo,Musko,Laboratorijski tehnicar,Razveden/a,104470,8,6,3,6,1,4,3,2,3
+22,50,Ne,Rijetko,Prodaja,8,4,Prirodne nauke,Musko,Naucni istrazivac,Razveden/a,96670,8,28,2,10,1,6,1,2,4
+23,53,Ne,Rijetko,Istrazivanje i razvoj,11,4,Prirodne nauke,Zensko,Naucni istrazivac,Brak,21480,8,21,2,5,1,3,3,3,3
+24,42,Ne,Rijetko,Istrazivanje i razvoj,4,4,Prirodne nauke,Musko,Direktor prozivodnje,Brak,89260,8,NA,4,20,11,6,2,3,3
+25,29,Ne,Cesto,Istrazivanje i razvoj,16,4,Medicina,Musko,Laboratorijski tehnicar,Sam/a,65130,8,10,2,10,0,9,2,4,3
+26,55,Ne,Rijetko,Istrazivanje i razvoj,1,4,Ostalo,Zensko,Naucni istrazivac,Brak,67990,8,12,2,10,0,8,2,4,3
+27,26,Ne,Cesto,Istrazivanje i razvoj,9,3,Prirodne nauke,Zensko,Menadzer,Brak,162910,8,5,3,5,3,3,1,1,4
+28,37,Ne,Rijetko,Prodaja,5,1,Marketing,Musko,Naucni istrazivac,Sam/a,27050,8,17,2,17,5,7,4,4,3
+29,44,Da,Cesto,Istrazivanje i razvoj,1,2,Medicina,Musko,Naucni istrazivac,Razveden/a,103330,8,19,2,1,0,0,4,3,3
+30,38,Ne,Rijetko,Prodaja,2,3,Marketing,Zensko,Menadzer,Razveden/a,44480,8,10,3,2,1,2,4,4,3
+31,26,Da,Rijetko,Istrazivanje i razvoj,4,3,Medicina,Musko,Naucni istrazivac,Razveden/a,68540,8,5,5,3,0,2,1,2,3
+32,28,Ne,Rijetko,Istrazivanje i razvoj,7,3,Ostalo,Musko,Ljudski resursi,Sam/a,96370,8,5,6,5,0,2,4,4,3
+33,49,Ne,Cesto,Istrazivanje i razvoj,1,1,Medicina,Zensko,Naucni istrazivac,Sam/a,35910,8,22,2,3,1,2,3,1,3
+34,36,Ne,Rijetko,Prodaja,5,3,Tehnicka diploma,Musko,Direktor prodaje,Sam/a,54050,8,10,2,8,7,7,3,2,3
+35,31,Ne,Cesto,Istrazivanje i razvoj,9,4,Medicina,Musko,Direktor prodaje,Razveden/a,46840,8,2,4,2,2,2,4,2,3
+36,26,Da,Rijetko,Istrazivanje i razvoj,8,3,Medicina,Musko,Menadzer,Sam/a,157870,8,8,5,8,7,4,4,4,3
+37,37,Ne,Cesto,Prodaja,9,1,Marketing,Musko,Laboratorijski tehnicar,Brak,15140,8,4,3,4,1,2,2,4,3
+38,42,Ne,Cesto,Prodaja,2,2,Marketing,Musko,Direktor istrazivanja,Brak,29560,8,23,2,20,4,8,3,2,3
+39,18,Da,Rijetko,Istrazivanje i razvoj,1,4,Prirodne nauke,Musko,Direktor prodaje,Sam/a,23350,8,0,3,0,0,0,3,3,3
+40,35,Ne,Rijetko,Prodaja,20,2,Prirodne nauke,Musko,Laboratorijski tehnicar,Brak,51540,8,12,2,11,6,9,3,2,3
+41,36,Ne,Cesto,Istrazivanje i razvoj,8,3,Ostalo,Zensko,Direktor prodaje,Brak,69620,8,4,2,1,0,0,3,NA,3
+42,51,Ne,Rijetko,Istrazivanje i razvoj,2,3,Prirodne nauke,Musko,Laboratorijski tehnicar,Razveden/a,56750,8,13,2,4,1,2,4,2,3
+43,41,Ne,Rijetko,Istrazivanje i razvoj,29,1,Prirodne nauke,Musko,Laboratorijski tehnicar,Sam/a,23790,8,22,6,22,0,4,4,2,3
+44,18,Ne,Rijetko,Prodaja,7,3,Prirodne nauke,Musko,Naucni istrazivac,Sam/a,38120,8,0,3,0,0,0,4,3,3
+45,28,Ne,Rijetko,Istrazivanje i razvoj,9,3,Medicina,Musko,Prodaja Representative,Sam/a,46480,8,9,2,8,0,7,2,1,4
+46,31,Ne,Rijetko,Istrazivanje i razvoj,8,1,Tehnicka diploma,Musko,Direktor prozivodnje,Brak,29360,8,10,2,8,7,7,2,4,3
+47,39,Ne,Rijetko,Prodaja,5,4,Marketing,Zensko,Ljudski resursi,Razveden/a,21050,8,19,3,18,3,7,3,4,4
+48,36,Ne,Ne putuje,Istrazivanje i razvoj,5,4,Prirodne nauke,Musko,Direktor prodaje,Brak,85780,8,11,4,9,0,8,2,2,4
+49,32,Ne,Rijetko,Prodaja,2,3,Marketing,Musko,Laboratorijski tehnicar,Brak,27060,8,13,4,13,4,8,4,3,4
+50,38,Ne,Rijetko,Istrazivanje i razvoj,5,2,Prirodne nauke,Zensko,Naucni istrazivac,Brak,63840,8,19,4,10,0,1,1,2,3
+51,58,Ne,Ne putuje,Istrazivanje i razvoj,2,3,Prirodne nauke,Musko,Direktor prozivodnje,Razveden/a,39680,8,12,3,5,1,2,4,3,3
+52,31,Ne,Rijetko,Istrazivanje i razvoj,20,1,Tehnicka diploma,Zensko,Naucni istrazivac,Brak,99070,8,6,3,5,0,3,3,4,3
+53,31,Ne,Rijetko,Prodaja,7,4,Marketing,Musko,Direktor prodaje,Brak,132250,8,9,2,2,1,0,1,1,4
+54,45,Ne,Cesto,Istrazivanje i razvoj,3,1,Medicina,Zensko,Direktor prodaje,Razveden/a,35400,8,24,6,24,9,11,1,1,3
+55,31,Ne,Rijetko,Prodaja,16,4,Marketing,Zensko,Naucni istrazivac,Razveden/a,28040,8,3,0,2,2,2,3,4,3
+56,33,Ne,Cesto,Istrazivanje i razvoj,9,3,Prirodne nauke,Musko,Direktor istrazivanja,Brak,193920,8,12,3,10,8,8,4,2,3
+57,39,Ne,Rijetko,Prodaja,1,4,Prirodne nauke,Musko,Direktor prodaje,Brak,196650,8,21,6,21,11,10,3,1,4
+58,43,Ne,Cesto,Istrazivanje i razvoj,7,4,Medicina,Musko,Naucni istrazivac,Sam/a,24390,8,9,2,8,1,7,3,4,3
+59,49,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Musko,Direktor prozivodnje,Sam/a,73140,8,25,2,7,0,7,3,3,4
+60,52,Da,Rijetko,Istrazivanje i razvoj,7,1,Prirodne nauke,Zensko,Naucni istrazivac,Brak,47740,8,11,2,8,7,7,3,2,3
+61,27,Ne,Rijetko,Istrazivanje i razvoj,15,4,Medicina,Musko,Naucni istrazivac,Sam/a,39020,8,4,2,4,1,2,3,2,4
+62,32,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Musko,Naucni istrazivac,Brak,26620,8,13,6,13,11,9,3,2,3
+63,27,Ne,Rijetko,Istrazivanje i razvoj,13,2,Medicina,Zensko,Direktor istrazivanja,Sam/a,28560,8,5,5,5,0,4,4,3,3
+64,31,Ne,Rijetko,Prodaja,24,3,Prirodne nauke,Musko,Predstavnik zdravstva,Razveden/a,10810,8,13,4,7,1,7,4,4,3
+65,32,Ne,Rijetko,Istrazivanje i razvoj,7,3,Tehnicka diploma,Musko,Predstavnik zdravstva,Sam/a,24720,8,10,2,7,0,7,1,4,3
+66,28,Da,Rijetko,Istrazivanje i razvoj,9,4,Medicina,Musko,Direktor prodaje,Brak,56730,8,5,4,3,2,2,1,4,3
+67,30,Ne,Rijetko,Istrazivanje i razvoj,13,3,Prirodne nauke,Zensko,Direktor istrazivanja,Brak,41970,8,11,3,10,1,9,4,4,3
+68,31,Ne,Cesto,Istrazivanje i razvoj,2,1,Prirodne nauke,Zensko,Menadzer,Brak,97130,8,10,5,10,8,9,3,3,3
+69,39,Ne,Cesto,Istrazivanje i razvoj,19,4,Medicina,Zensko,Naucni istrazivac,Brak,20620,8,21,4,21,13,3,3,4,3
+70,39,Da,Rijetko,Istrazivanje i razvoj,1,1,Medicina,Zensko,Laboratorijski tehnicar,Brak,42840,8,12,0,1,0,0,4,3,3
+71,33,Ne,Cesto,Prodaja,4,2,Prirodne nauke,Musko,Naucni istrazivac,Sam/a,47880,8,9,0,7,0,1,2,4,3
+72,47,Ne,Rijetko,Istrazivanje i razvoj,4,3,Prirodne nauke,Zensko,Predstavnik zdravstva,Brak,59060,8,21,4,3,1,1,4,3,4
+73,43,Ne,Cesto,Istrazivanje i razvoj,14,3,Medicina,Zensko,Direktor istrazivanja,Razveden/a,38860,8,9,2,9,0,0,3,3,3
+74,27,Ne,Ne putuje,Istrazivanje i razvoj,2,3,Prirodne nauke,Musko,Direktor istrazivanja,Brak,168230,8,6,3,5,1,4,3,2,3
+75,54,Ne,Cesto,Istrazivanje i razvoj,1,4,Prirodne nauke,Musko,Naucni istrazivac,Sam/a,29330,8,20,2,4,0,3,4,3,3
+76,43,Ne,Rijetko,Istrazivanje i razvoj,7,2,Prirodne nauke,Zensko,Menadzer,Brak,65000,8,10,3,1,0,0,3,1,4
+77,45,Ne,Rijetko,Prodaja,3,1,Marketing,Zensko,Direktor prodaje,Brak,171740,8,12,6,10,9,8,4,4,3
+78,40,Ne,Rijetko,Istrazivanje i razvoj,2,4,Ostalo,Musko,Naucni istrazivac,Brak,50330,8,6,6,4,0,2,2,4,3
+79,29,Da,Rijetko,Istrazivanje i razvoj,29,3,Medicina,Zensko,Naucni istrazivac,Brak,23070,8,7,0,7,0,7,2,1,3
+80,29,Ne,Rijetko,Ljudski resursi,8,3,Medicina,Musko,Prodaja Representative,Sam/a,25870,8,4,3,3,2,2,2,4,4
+81,30,Ne,Rijetko,Istrazivanje i razvoj,10,3,Prirodne nauke,Musko,Naucni istrazivac,Razveden/a,55070,8,10,2,10,1,2,4,3,3
+82,27,Ne,Rijetko,Istrazivanje i razvoj,11,2,Medicina,Musko,Menadzer,Brak,43930,8,8,2,8,0,7,2,2,3
+83,37,Ne,Rijetko,Prodaja,1,4,Prirodne nauke,Musko,Predstavnik zdravstva,Razveden/a,133480,8,8,4,6,0,4,4,4,3
+84,38,Ne,Rijetko,Istrazivanje i razvoj,28,4,Medicina,Musko,Laboratorijski tehnicar,Razveden/a,65830,8,12,1,11,2,9,3,4,3
+85,31,Ne,Rijetko,Istrazivanje i razvoj,6,3,Medicina,Zensko,Menadzer,Sam/a,81030,8,11,5,11,4,10,3,4,3
+86,29,Ne,Rijetko,Istrazivanje i razvoj,3,4,Prirodne nauke,Musko,Direktor prodaje,Razveden/a,39780,8,7,0,7,1,7,4,2,3
+87,35,Ne,Rijetko,Prodaja,16,2,Tehnicka diploma,Musko,Menadzer,Sam/a,25440,8,17,3,16,0,13,3,2,3
+88,23,Ne,Rijetko,Istrazivanje i razvoj,20,4,Prirodne nauke,Musko,Direktor prozivodnje,Razveden/a,53990,8,4,2,4,0,2,3,4,4
+89,41,Ne,Rijetko,Istrazivanje i razvoj,9,2,Prirodne nauke,Zensko,Laboratorijski tehnicar,Sam/a,54870,8,8,0,5,1,2,4,2,3
+90,47,Ne,Cesto,Prodaja,1,3,Medicina,Zensko,Laboratorijski tehnicar,Sam/a,68340,8,5,2,0,0,0,2,3,3
+91,42,Ne,Rijetko,Istrazivanje i razvoj,3,4,Prirodne nauke,Musko,Menadzer,Sam/a,10910,8,16,0,1,0,0,1,4,4
+92,29,Ne,Ne putuje,Prodaja,22,4,Marketing,Musko,Ljudski resursi,Brak,57360,8,4,1,4,0,2,4,3,4
+93,42,Ne,Rijetko,Prodaja,7,4,Medicina,Musko,Naucni istrazivac,Razveden/a,22260,8,4,3,3,1,0,3,3,3
+94,32,Ne,Rijetko,Istrazivanje i razvoj,2,3,Medicina,Musko,Naucni istrazivac,Brak,57470,8,8,0,8,0,7,3,2,3
+95,48,Ne,Rijetko,Prodaja,13,4,Medicina,Musko,Direktor prodaje,Brak,98540,8,15,2,0,0,0,1,3,3
+96,37,Ne,Rijetko,Istrazivanje i razvoj,8,5,Tehnicka diploma,Musko,Direktor prozivodnje,Razveden/a,54670,8,13,2,7,6,7,3,1,3
+97,30,Ne,Ne putuje,Prodaja,25,4,Ostalo,Musko,Predstavnik zdravstva,Brak,53800,8,4,0,2,2,2,4,3,4
+98,26,Ne,Rijetko,Prodaja,28,3,Medicina,Zensko,Laboratorijski tehnicar,Brak,51510,8,8,3,8,7,7,3,3,3
+99,42,Ne,Rijetko,Prodaja,2,2,Medicina,Zensko,Laboratorijski tehnicar,Sam/a,21330,8,14,2,1,0,0,1,4,3
+100,21,Da,Cesto,Istrazivanje i razvoj,9,3,Medicina,Zensko,Direktor prozivodnje,Sam/a,178750,8,3,5,3,1,2,1,2,3
+101,36,Ne,Ne putuje,Ljudski resursi,28,3,Ljudski resursi,Musko,Laboratorijski tehnicar,Sam/a,24320,8,7,4,1,0,0,4,4,4
+102,36,Ne,Cesto,Istrazivanje i razvoj,6,3,Prirodne nauke,Zensko,Naucni istrazivac,Brak,47710,8,16,2,13,1,12,1,4,3
+103,57,Ne,Rijetko,Istrazivanje i razvoj,21,4,Prirodne nauke,Musko,Naucni istrazivac,Brak,191610,8,15,2,3,1,2,4,3,3
+104,40,Ne,Rijetko,Istrazivanje i razvoj,8,3,Ostalo,Musko,Direktor prodaje,Brak,50870,8,10,3,7,1,7,4,3,3
+105,21,Ne,Ne putuje,Istrazivanje i razvoj,1,5,Prirodne nauke,Zensko,Menadzer,Sam/a,28630,8,3,2,3,2,2,1,4,3
+106,33,Da,Rijetko,Ljudski resursi,28,2,Ljudski resursi,Zensko,Menadzer,Sam/a,55610,8,1,3,1,0,0,4,3,4
+107,37,Ne,Rijetko,Istrazivanje i razvoj,5,3,Prirodne nauke,Musko,Naucni istrazivac,Brak,21440,8,17,3,5,0,3,3,1,3
+108,46,Ne,Ne putuje,Prodaja,2,4,Marketing,Zensko,Laboratorijski tehnicar,Brak,30650,8,7,3,1,0,0,3,3,3
+109,41,Da,Cesto,Istrazivanje i razvoj,16,1,Medicina,Zensko,Naucni istrazivac,Sam/a,28100,8,8,3,8,7,7,1,2,3
+110,50,Ne,Rijetko,Istrazivanje i razvoj,9,3,Medicina,Zensko,Laboratorijski tehnicar,Sam/a,98880,8,20,2,4,1,3,4,4,3
+111,40,Da,Rijetko,Istrazivanje i razvoj,8,3,Medicina,Zensko,Predstavnik zdravstva,Brak,86280,8,8,2,6,1,0,3,3,4
+112,31,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Musko,Ljudski resursi,Sam/a,28670,8,3,5,2,2,2,NA,2,4
+113,21,Da,Rijetko,Ljudski resursi,10,2,Ljudski resursi,Musko,Laboratorijski tehnicar,Sam/a,53730,8,1,2,1,0,0,3,2,3
+114,29,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Zensko,Direktor istrazivanja,Sam/a,66670,8,6,6,3,1,2,4,4,3
+115,35,Ne,Rijetko,Istrazivanje i razvoj,29,3,Prirodne nauke,Zensko,Direktor prodaje,Sam/a,50030,8,10,2,1,0,0,3,2,3
+116,27,Ne,Rijetko,Prodaja,2,3,Prirodne nauke,Musko,Direktor prodaje,Razveden/a,23670,8,5,2,5,0,4,4,2,3
+117,28,Ne,Rijetko,Istrazivanje i razvoj,2,2,Medicina,Musko,Menadzer,Sam/a,28580,8,7,2,7,0,7,2,4,3
+118,49,Ne,Rijetko,Prodaja,2,3,Tehnicka diploma,Musko,Direktor prozivodnje,Sam/a,52040,8,26,3,5,0,0,2,3,3
+119,51,Ne,Rijetko,Istrazivanje i razvoj,1,2,Prirodne nauke,Musko,Direktor prodaje,Brak,41050,8,18,2,7,0,7,3,4,4
+120,36,Ne,Rijetko,Prodaja,15,2,Prirodne nauke,Musko,Direktor prodaje,Brak,96790,8,6,1,2,2,2,4,3,3
+121,34,Da,Ne putuje,Istrazivanje i razvoj,7,3,Prirodne nauke,Musko,Prodaja Representative,Sam/a,56170,8,9,3,5,0,4,1,4,4
+122,55,Ne,Rijetko,Prodaja,26,3,Marketing,Musko,Laboratorijski tehnicar,Sam/a,104480,8,30,3,5,1,2,3,4,3
+123,24,Ne,Rijetko,Istrazivanje i razvoj,1,3,Prirodne nauke,Zensko,Menadzer,Razveden/a,28970,8,5,4,5,0,3,4,3,3
+124,30,Ne,Rijetko,Istrazivanje i razvoj,3,3,Prirodne nauke,Zensko,Menadzer,Brak,59680,8,1,3,1,0,0,3,2,3
+125,26,Da,Cesto,Prodaja,14,3,Prirodne nauke,Musko,Menadzer,Sam/a,75100,8,7,3,6,0,4,3,NA,3
+126,22,Ne,Rijetko,Istrazivanje i razvoj,16,5,Ostalo,Musko,Naucni istrazivac,Brak,29910,8,2,3,2,1,2,1,2,3
+127,36,Ne,Rijetko,Istrazivanje i razvoj,1,3,Medicina,Zensko,Predstavnik zdravstva,Brak,196360,8,10,3,10,9,0,2,3,3
+128,30,Da,Cesto,Prodaja,3,2,Marketing,Musko,Naucni istrazivac,Sam/a,11290,8,3,2,1,0,0,3,4,3
+129,37,Ne,Rijetko,Istrazivanje i razvoj,10,1,Tehnicka diploma,Musko,Direktor prodaje,Razveden/a,133410,8,18,3,18,12,17,4,1,3
+130,40,Ne,Rijetko,Istrazivanje i razvoj,6,2,Medicina,Musko,Naucni istrazivac,Razveden/a,43320,8,8,3,5,1,3,4,2,3
+131,42,Ne,Rijetko,Istrazivanje i razvoj,2,3,Medicina,Zensko,Menadzer,Razveden/a,110310,8,8,2,5,1,2,2,1,3
+132,37,Ne,Rijetko,Prodaja,9,1,Marketing,Musko,Direktor prodaje,Sam/a,44400,8,18,3,1,0,1,3,2,3
+133,43,Ne,Rijetko,Prodaja,10,2,Prirodne nauke,Zensko,Direktor prodaje,Razveden/a,46170,8,25,2,25,3,9,1,2,3
+134,40,Ne,Rijetko,Prodaja,6,2,Prirodne nauke,Zensko,Laboratorijski tehnicar,Brak,26470,8,20,2,1,0,0,2,3,3
+135,54,Ne,Rijetko,Ljudski resursi,9,3,Prirodne nauke,Zensko,Direktor prozivodnje,Brak,63230,8,24,2,4,1,2,1,1,4
+136,34,Ne,Ne putuje,Istrazivanje i razvoj,28,3,Medicina,Musko,Laboratorijski tehnicar,Brak,56770,8,6,3,3,1,2,3,3,4
+137,31,Ne,Rijetko,Istrazivanje i razvoj,10,4,Prirodne nauke,Musko,Direktor prodaje,Brak,21870,8,13,2,13,3,12,2,1,3
+138,43,Ne,Cesto,Prodaja,14,3,Prirodne nauke,Zensko,Direktor prozivodnje,Brak,37480,8,NA,3,3,1,2,4,4,3
+139,43,Ne,Rijetko,Prodaja,27,4,Prirodne nauke,Musko,Prodaja Representative,Razveden/a,39770,8,8,3,5,0,2,3,3,3
+140,25,Ne,Rijetko,Ljudski resursi,7,2,Ljudski resursi,Musko,Direktor prozivodnje,Sam/a,86330,8,5,2,5,1,3,2,4,3
+141,37,Ne,Ne putuje,Istrazivanje i razvoj,1,3,Medicina,Musko,Laboratorijski tehnicar,Brak,20080,8,15,5,13,10,7,2,3,4
+142,31,Ne,Rijetko,Istrazivanje i razvoj,24,1,Medicina,Musko,Laboratorijski tehnicar,Brak,44400,8,4,2,4,3,2,4,1,3
+143,39,Ne,Cesto,Istrazivanje i razvoj,26,4,Tehnicka diploma,Zensko,Direktor prodaje,Razveden/a,30670,8,21,5,21,1,6,2,3,4
+144,56,Ne,Cesto,Istrazivanje i razvoj,20,4,Prirodne nauke,Zensko,Direktor prodaje,Brak,53210,8,36,1,7,7,7,3,1,3
+145,30,Ne,Rijetko,Prodaja,5,4,Medicina,Zensko,Direktor prozivodnje,Sam/a,54100,8,6,2,5,4,4,2,3,3
+146,41,Ne,Rijetko,Istrazivanje i razvoj,7,3,Tehnicka diploma,Zensko,Naucni istrazivac,Brak,27820,8,10,2,10,0,7,2,1,3
+147,28,Ne,Rijetko,Istrazivanje i razvoj,7,3,Medicina,Musko,Predstavnik zdravstva,Razveden/a,119570,8,10,2,10,1,8,3,1,3
+148,25,Da,Rijetko,Istrazivanje i razvoj,5,2,Prirodne nauke,Zensko,Laboratorijski tehnicar,Brak,26600,8,6,3,2,0,2,1,1,3
+149,52,Ne,Rijetko,Istrazivanje i razvoj,26,2,Prirodne nauke,Zensko,Prodaja Representative,Brak,33750,8,28,2,5,0,4,4,3,4
